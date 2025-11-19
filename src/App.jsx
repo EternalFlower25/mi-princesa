@@ -9,7 +9,7 @@ export default function PrincessCarousel() {
   const audioRef = useRef(null);
 
   // CONFIGURA TU MÚSICA Y FOTOS AQUÍ
-  const musicFile = "music/Miniñabonita.mp3";
+  const musicFile = "music/Mininabonita.mp3";
   const images = [
     "images/1.jpeg",
     "images/2.jpg",
